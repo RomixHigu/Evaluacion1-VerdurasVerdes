@@ -25,6 +25,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="casual"
         android:text="Calculo de Verduras"
+        android:textColor="#232222"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -51,6 +52,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Costo Verdura:"
+                android:textColor="#232222"
                 android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -64,7 +66,8 @@
                 android:layout_width="179dp"
                 android:layout_height="48dp"
                 android:ems="10"
-                android:inputType="number" />
+                android:inputType="number"
+                android:textColor="#232222" />
 
 
         </TableRow>
@@ -76,6 +79,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Total por Hectarea:"
+                android:textColor="#232222"
                 android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -89,7 +93,8 @@
                 android:layout_width="179dp"
                 android:layout_height="48dp"
                 android:ems="10"
-                android:inputType="number" />
+                android:inputType="number"
+                android:textColor="#232222" />
         </TableRow>
 
     </TableLayout>
