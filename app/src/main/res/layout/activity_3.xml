@@ -38,7 +38,7 @@
         android:id="@+id/textView7"
         android:layout_width="231dp"
         android:layout_height="81dp"
-        android:text="El valor total de Verduras por Hectareas es:"
+        android:text="El costo total de Verduras por Hectarea es:"
         android:textAlignment="center"
         android:textColor="#232222"
         android:textSize="20sp"
