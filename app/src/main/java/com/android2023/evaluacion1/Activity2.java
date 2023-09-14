@@ -7,13 +7,14 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import com.google.android.material.textfield.TextInputEditText;
 
 public class Activity2 extends AppCompatActivity {
 
-    TextInputEditText Verdura,Hectarea;
+    EditText Verdura,Hectarea;
     Button Calcular,Limpiar;
     TextView Resultado;
     @SuppressLint("MissingInflatedId")
